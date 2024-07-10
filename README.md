@@ -13,7 +13,7 @@ This project demonstrates how to use LangGraph and LangSmith with Python. It inc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/winkotun007/langGraph_chatbot.git
+git clone https://github.com/WinKoHtun-Xwin/langGraph_chatbot.git
 cd langGraph_chatbot
 ```
 
