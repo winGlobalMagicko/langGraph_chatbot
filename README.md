@@ -1,5 +1,5 @@
 
-# Project Name
+# LangGraph chatbot and other basic lesson
 
 ## Overview
 This project demonstrates how to use LangGraph and LangSmith with Python. It includes setup instructions for different operating systems and a sample script `langgraph_lesson1.py`.
