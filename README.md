@@ -1,5 +1,5 @@
 
-# Project Name
+# LangGraph chatbot and other basic lesson
 
 ## Overview
 This project demonstrates how to use LangGraph and LangSmith with Python. It includes setup instructions for different operating systems and a sample script `langgraph_lesson1.py`.
@@ -13,7 +13,7 @@ This project demonstrates how to use LangGraph and LangSmith with Python. It inc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/winkotun007/langGraph_chatbot.git
+git clone https://github.com/WinKoHtun-Xwin/langGraph_chatbot.git
 cd langGraph_chatbot
 ```
 
