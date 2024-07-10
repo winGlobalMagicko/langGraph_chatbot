@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# remove virutal environment venv
+venu/
+
 # Distribution / packaging
 .Python
 build/
