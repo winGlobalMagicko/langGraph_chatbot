@@ -9,6 +9,9 @@ __pycache__/
 # remove virutal environment venv
 venu/
 
+# remove photo langGraph_work_flow.png  
+langGraph_work_flow.png
+
 # Distribution / packaging
 .Python
 build/
