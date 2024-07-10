@@ -19,11 +19,13 @@ cd langGraph_chatbot
 
 ### 2. Create a `.env` File
 Create a file named `.env` in the root of your project directory and add the following keys:
-
 ```
-ANTHROPIC_API_KEY=sk--test--key
-LANGCHAIN_API_KEY=langsmithkey
-LANGCHAIN_TRACING_V2=true
+ANTHROPIC_API_KEY = test--anthropic-api-key
+
+TAVILY_API_KEY = test-Tavily-api-key
+
+LANGCHAIN_API_KEY = langsmith-key (for workflow tracing)
+LANGCHAIN_TRACING_V2 = true  (for workflow tracing)
 ```
 
 ### 3. Set Up a Virtual Environment
